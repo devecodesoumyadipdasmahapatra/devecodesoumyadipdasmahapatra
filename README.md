@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm SOUMYADIP DAS MAHAPATRA</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<imga align="left"> alt="coding" width="800" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fchill-codingprogramming-lofi-animation-royaltyfree-stock-animation--861876447443975810%2F&psig=AOvVaw2U34lAqOUAa6oh91sdn68C&ust=1702370479953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCK4q_-hoMDFQAAAAAdAAAAABAQ"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devecodesoumyadipdasmahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="devecodesoumyadipdasmahapatra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codersoumyadip" target="blank"><img src="https://img.shields.io/twitter/follow/codersoumyadip?logo=twitter&style=for-the-badge" alt="codersoumyadip" /></a> </p>
 
 - 🔭 I’m currently working on [Medicine prediction](https://freelance-project-six.vercel.app/)
 
-- 🤝 I’m looking for help with [AI DEVELOPEMENT & BLOCKCHAN DEVELOPEMENT & DSA](https://freelance-project-six.vercel.app/)
+- 🤝 I’m looking for help with [AI DEVELOPMENT & BLOCKCHAIN DEVELOPEMENT & DSA](https://freelance-project-six.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://soumyadip-dev.vercel.app/](https://soumyadip-dev.vercel.app/)
 
@@ -35,3 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devecodesoumyadipdasmahapatra&show_icons=true&locale=en&layout=compact" alt="devecodesoumyadipdasmahapatra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devecodesoumyadipdasmahapatra&show_icons=true&locale=en" alt="devecodesoumyadipdasmahapatra" /></p>
+
